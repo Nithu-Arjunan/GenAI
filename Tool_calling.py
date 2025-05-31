@@ -5,8 +5,8 @@ from langchain_core.tools import tool
 
 # Set API keys
 
-os.environ["GROQ_API_KEY"] = "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"  
-WEATHER_API_KEY = "014864fc61e34118ac3113709253005" 
+os.environ["GROQ_API_KEY"] = " "  
+WEATHER_API_KEY = " " 
 
 
 # Creat third party tools
